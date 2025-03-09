@@ -12,7 +12,7 @@ services:
       - key: SESSION
         value: "BQHCUWYARBjLPxE_5DPdQXSfyIMxjbpZ2lAusvLnzll258yYufvtBmWpuLyk7WJRrKwxLU0eAyOHJKLkcCBHQKHG1cybkeF2s-sSWSW6mGS2dsnvU7P2SthB8Ar5ZxUAWWTtp2HEWeyCoCoOzIYcMGzRd3Pxl5qgYFpKv015pLKpQz7pXfnhxJhaBlH3jFusfvlgScQqjq1G2YpEPE1B_3Ch-HXCqcbDd5FTvcyvNMmbP9CzmiHBUweZpgOxKqYK-NQyeW4IqRs2XfZEJ6OtNPBi2Y39TZAeoO3Ag882IKTVAKhA1zw01KQr0MlfZGQsdpzFl_Wx7fG8xUs5vqjX4n0gdvz5RgAAAAEqlTHqAA" # Fill this
       - key: AUTH
-        value: "@Ripu971" # Fill this
+        value: "5009388010" # Fill this
       - key: FORCESUB
         value: "imforwarder" # Fill this
     ports:
